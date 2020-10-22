@@ -15,3 +15,5 @@ for example
     c:/blender_2_91/2.91/scripts/addons/cycles/shader/
   
 and refresh the OLS shader
+
+This file is from Blender 2.79b.
